@@ -1,2 +1,0 @@
-# dci
-Digital Career Institute
